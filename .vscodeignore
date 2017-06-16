@@ -4,6 +4,11 @@ out/test/**
 test/**
 src/**
 **/*.map
+**/*.ts
+**/tsconfig.json
 .gitignore
 tsconfig.json
 vsc-extension-quickstart.md
+**/*.png
+**/*.md
+**/test*.txt
