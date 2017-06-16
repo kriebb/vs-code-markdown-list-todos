@@ -1,15 +1,18 @@
+
+
 # listing-Todo's README
 
 This is my first plugin made for Visual Studio Code.
 This is a first version of the Readme.Md. 
 
-Todo: Needs to be improved.
+<a name='TODO:Needsto'></a>Todo: Needs to be improved.
 
 This is a first version of listing todo's. Code can be optimized, but this is a working version.
 The constants could be settings.
 
 This plugin is based on the code of 'Generate Markdown TOC'.  So thank you for inspiring me!
-Todo: add a reference to the codebase where I based my code upon
+
+<a name='TODO:addaref'></a>Todo: add a reference to the codebase where I based my code upon
 
 
 ## Features
@@ -31,7 +34,7 @@ En then you'll have the following:
 
 And this is how the preview looks like
 
-Todo: change the image after the bug is fixed.
+<a name='TODO:changeth'></a>Todo: change the image after the bug is fixed.
 
 ![](2017-06-16-10-33-34.png)
 
@@ -46,6 +49,13 @@ There are no extension settings.
 ## Known Issues
 
 - Sometimes the plugin loses a carriage return.
+
+<!-- vscode-markdown-todo -->
+1. [TODO: Needs to ](#TODO:Needsto)
+2. [TODO: add a ref](#TODO:addaref)
+3. [TODO: change th](#TODO:changeth)
+
+<!-- /vscode-markdown-todo -->
 
 ## Release Notes
 

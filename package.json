@@ -1,7 +1,7 @@
 {
-  "name": "listing-keywords",
-  "displayName": "listing-keywords",
-  "description": "Generate a list so you can have an overview of them",
+  "name": "listing-todos",
+  "displayName": "listing-todo",
+  "description": "Generate a list of the todo's so you can have an overview of them",
   "version": "0.0.1",
   "publisher": "kristofriebbels",
   "engines": {
@@ -11,14 +11,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:extension.countKeywords"
+    "onCommand:extension.listTodos"
   ],
   "main": "./out/src/extension",
   "contributes": {
     "commands": [
       {
-        "command": "extension.countKeywords",
-        "title": "Count Keywords"
+        "command": "extension.listTodos",
+        "title": "List Todos"
       }
     ]
   },
@@ -32,7 +32,7 @@
     "@types/mocha": "^2.2.32",
     "@types/node": "^6.0.40",
     "mocha": "^2.3.3",
-    "typescript": "^2.3.2",
+    "typescript": "^2.3.4",
     "vscode": "^1.0.0"
   }
 }
