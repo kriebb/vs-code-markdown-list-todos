@@ -1,3 +1,9 @@
+EXPERIMENTAL!
+OWN YOUR OWN RISK!
+
+On this moment it is a tryout.
+
+
 # listing-Todo's README
 
 This is my first plugin made for Visual Studio Code.
